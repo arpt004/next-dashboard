@@ -2,3 +2,10 @@ npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.
 cd nextjs-dashboard
 npm i 
 npm run dev
+
+
+
+
+
+deployment : https://vercel.com/arpit-jains-projects-500a4dab/next-dashboard/GQXjHmTuP4xH1jLBZjukspbeKcgS
+domain : https://next-dashboard-bice-five.vercel.app/
